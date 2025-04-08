@@ -1,4 +1,4 @@
-## Hi there 👋
+## I'm a new coder and am using this account to learn and practice my coding!
 
 <!--
 **kelmo-coder/kelmo-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
